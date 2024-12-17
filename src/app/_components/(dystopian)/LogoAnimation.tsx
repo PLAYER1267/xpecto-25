@@ -1,5 +1,5 @@
 import React from "react";
-import "./LogoAnimation.css";
+import "@/styles/LogoAnimation.css";
 
 const LogoAnimation = () => {
   return (
